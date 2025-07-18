@@ -39,6 +39,7 @@ st.markdown("""
 - MySql
 - Mongodb
 """)
+st.markdown("---")
 
 st.header(" Soft Skills")
 st.markdown("""
@@ -48,6 +49,7 @@ st.markdown("""
 - Attention to Detail
 - Creativity
 """)
+st.markdown("---")
 
 # === PROJECTS ===
 st.header(" Projects")
@@ -59,8 +61,10 @@ A Google Classroom–like application that allows students to upload assignments
 A Python-based scraper to extract real-estate data with user-defined city input and save structured output.  
 """)
 
+st.markdown("---")
+
 # === ADDITIONAL SECTION (Optional) ===
-st.header(" Achievements & Certifications")
+st.header("Certifications")
 st.markdown("""
 - Python for Data Science – Infosys Springboard  
 -   
