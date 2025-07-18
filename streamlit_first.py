@@ -3,7 +3,7 @@ st.cache_data.clear()
 from PIL import Image
 
 # === PAGE CONFIG ===
-st.set_page_config(page_title="My Resume", layout="centered"
+st.set_page_config(page_title="My Resume", layout="centered")
 
 # === HEADER ===
 st.image(image, width=150)
