@@ -6,7 +6,6 @@ from PIL import Image
 st.set_page_config(page_title="My Resume", layout="centered")
 
 # === HEADER ===
-st.image(image, width=150)
 st.title("Nilesh Vidhani")
 st.subheader("Final Year BCA Student | Python Developer | Data Enthusiast")
 st.markdown("---")
