@@ -7,13 +7,15 @@ st.set_page_config(page_title="My Resume", layout="centered")
 
 # === HEADER ===
 st.title("Nilesh Vidhani")
-st.subheader("Final Year BCA Student | Python Developer | Data Enthusiast")
+st.subheader("Final Year BCA Student ")
+st.subheader("Analyst | Data Analyst | Business Analyst | Financial Analyst ")
 st.markdown("---")
 
 # === CONTACT SECTION ===
-st.markdown(" **Email:** nilesh@example.com")
+st.markdown(" **Email:** vidhanin810@gmail.com.com")
 st.markdown(" **GitHub:** [github.com/nileshvidhani](https://github.com/nileshvidhani)")
-st.markdown(" **Location:** Mumbai, India")
+st.markdown(" **Location:** Bengaluru, India")
+st.markdown(" **LinkedIn:** [nileshvidhani](https://www.linkedin.com/in/nilesh-vidhani/)")
 st.markdown("---")
 
 # === EDUCATION ===
@@ -21,17 +23,30 @@ st.header(" Education")
 st.markdown("""
 **Bachelor of Computer Applications (BCA)**  
 Christ University, Bangalore  
-2022 – 2025  
-CGPA: 8.6  
+2022 – 2026  
+CGPA: 7.4  
 """)
 
+
 # === SKILLS ===
-st.header(" Skills")
+st.header(" Hard Skills")
 st.markdown("""
 - Python, Streamlit, Flask
 - SQL, Pandas, NumPy
 - Git & GitHub
 - Web Scraping
+- Excel
+- MySql
+- Mongodb
+""")
+
+st.header(" Soft Skills")
+st.markdown("""
+- Time Management
+- Team Building
+- Leadership
+- Attention to Detail
+- Creativity
 """)
 
 # === PROJECTS ===
@@ -47,8 +62,8 @@ A Python-based scraper to extract real-estate data with user-defined city input 
 # === ADDITIONAL SECTION (Optional) ===
 st.header(" Achievements & Certifications")
 st.markdown("""
-- Python for Everybody – Coursera  
-- Web Development Internship at XYZ Pvt Ltd  
+- Python for Data Science – Infosys Springboard  
+-   
 """)
 
 st.markdown("---")
