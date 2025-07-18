@@ -27,6 +27,7 @@ Christ University, Bangalore
 CGPA: 7.4  
 """)
 
+st.markdown("---")
 
 # === SKILLS ===
 st.header(" Hard Skills")
@@ -39,6 +40,7 @@ st.markdown("""
 - MySql
 - Mongodb
 """)
+
 st.markdown("---")
 
 st.header(" Soft Skills")
@@ -49,6 +51,7 @@ st.markdown("""
 - Attention to Detail
 - Creativity
 """)
+
 st.markdown("---")
 
 # === PROJECTS ===
